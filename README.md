@@ -14,7 +14,7 @@
 ## Работа игры:
 
 ### Персонаж:
-![character](screens/screenshot_2.png)
+![character](screens/Screenshot_2.png)
 
 ### Противник:
 ![enemy](screens/Screenshot_1.png)
